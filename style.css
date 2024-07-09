@@ -32,6 +32,7 @@ header nav {
   align-items: center;
   position: fixed;
   left: 0;
+  position: fixed;
 }
 
 header nav a {
@@ -57,4 +58,9 @@ main article {
   color: white;
   font-size: 14px;
   gap: 10px;
+}
+
+main article img {
+  max-width: 100%;
+  height: auto;
 }
