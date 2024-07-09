@@ -28,6 +28,8 @@ header nav {
   align-items: center;
   background-color: #001233;
   bottom: 0;
+  position: fixed;
+  left: 0;
 }
 
 header nav a {
