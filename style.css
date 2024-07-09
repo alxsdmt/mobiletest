@@ -13,7 +13,7 @@ body {
 
 header {
   width: 100%;
-  height: 45px;
+  height: 65px;
   display: flex;
   align-items: center;
   position: relative;
@@ -34,6 +34,4 @@ header nav {
 header nav a {
   text-decoration: none;
   color: #979dac;
-  padding-top: 20px;
-  padding-bottom: 20px;
 }
