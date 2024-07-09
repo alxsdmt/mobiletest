@@ -9,7 +9,6 @@ body {
   display: flex;
   height: 100vh;
   width: 100vw;
-  align-items: flex-end;
 }
 
 header {
@@ -19,6 +18,8 @@ header {
   align-items: center;
   position: relative;
   background-color: #001233;
+  position: fixed;
+  bottom: 0;
 }
 
 header nav {
