@@ -16,7 +16,6 @@ header {
   height: 65px;
   display: flex;
   align-items: center;
-  position: relative;
   background-color: #001233;
   position: fixed;
   bottom: 0;
