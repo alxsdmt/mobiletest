@@ -30,6 +30,7 @@ header nav {
   bottom: 0;
   position: fixed;
   left: 0;
+  padding-bottom: 45px;
 }
 
 header nav a {
